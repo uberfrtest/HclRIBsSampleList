@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/view_padding_medium"
+    android:paddingBottom="@dimen/view_padding_medium">
+
+    <TextView
+        android:id="@+id/vCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:lines="1"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_large_plus"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="London" />
+
+    <TextView
+        android:id="@+id/vCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:lines="1"
+        android:textColor="@color/mediumGray"
+        android:textSize="@dimen/text_size_large"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/vCity"
+        tools:text="England" />
+
+    <TextView
+        android:id="@+id/vCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:lines="1"
+        android:textColor="@color/primaryLight"
+        android:textSize="@dimen/text_size_large_plus"
+        app:layout_constraintBottom_toBottomOf="@+id/vCountry"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/vCity"
+        tools:text="STL" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

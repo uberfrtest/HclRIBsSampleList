@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HclListPOC</string>
+    <string name="splash_screen_title">Test\nApplication</string>
+    <string name="error">Error</string>
+    <string name="display_test_list_title">Uber HCL Test RIB</string>
+    <string name="display_test_list">Display Test List</string>
+    <string name="test_list">Test List</string>
+ </resources>

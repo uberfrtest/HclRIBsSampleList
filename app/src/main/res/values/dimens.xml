@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="group_view_padding_micro">4dp</dimen>
+    <dimen name="group_view_padding_min">8dp</dimen>
+    <dimen name="group_view_padding_medium">16dp</dimen>
+    <dimen name="view_padding_min">8dp</dimen>
+    <dimen name="view_padding_min_plus">12dp</dimen>
+    <dimen name="view_padding_medium">16dp</dimen>
+    <dimen name="view_padding_medium_plus">20dp</dimen>
+    <dimen name="view_padding_large">24dp</dimen>
+    <dimen name="view_padding_big">32dp</dimen>
+    <dimen name="view_padding_big_plus">42dp</dimen>
+
+    <dimen name="view_margin_min">8dp</dimen>
+    <dimen name="view_margin_micro">4dp</dimen>
+    <dimen name="view_margin_medium">16dp</dimen>
+    <dimen name="view_margin_large">22dp</dimen>
+    <dimen name="view_margin_big">32dp</dimen>
+    <dimen name="view_margin_huge">48dp</dimen>
+
+    <dimen name="text_size_tiny">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_large_plus">20sp</dimen>
+    <dimen name="text_size_huge">24sp</dimen>
+    <dimen name="text_size_huge_plus">28sp</dimen>
+    <dimen name="text_size_48">48sp</dimen>
+
+    <dimen name="text_margin_micro">4dp</dimen>
+    <dimen name="text_margin_min">8dp</dimen>
+    <dimen name="text_margin_medium">16dp</dimen>
+    <dimen name="text_margin_large">24dp</dimen>
+    <dimen name="text_margin_huge">32dp</dimen>
+    <dimen name="text_margin_huge_plus">32dp</dimen>
+    <dimen name="text_padding_micro">4dp</dimen>
+    <dimen name="text_padding_min">8dp</dimen>
+    <dimen name="text_padding_medium">16dp</dimen>
+    <dimen name="text_padding_big">24dp</dimen>
+    <dimen name="text_padding_large">32dp</dimen>
+    <dimen name="text_padding_huge">48dp</dimen>
+
+    <dimen name="divider_size">1dp</dimen>
+    <dimen name="double_divider_size">2dp</dimen>
+
+    <dimen name="tb_elevation">8dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+
+    <dimen name="articles_list_reveal_height_portrait">112dp</dimen>
+    <dimen name="articles_list_reveal_height_landscape">96dp</dimen>
+    <dimen name="filter_title_width">94dp</dimen>
+    <dimen name="backdrop_start_padding">72dp</dimen>
+
+    <dimen name="article_image_height_portrait">176dp</dimen>
+    <dimen name="article_image_height_landscape">152dp</dimen>
+    <dimen name="tiny_image_size">18dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
+
+    <dimen name="dashed_line_width">3dp</dimen>
+    <dimen name="ticket_vertical_divider_size">4dp</dimen>
+</resources>
